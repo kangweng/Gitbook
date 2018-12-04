@@ -1,7 +1,9 @@
 {
-"plugins": ["chapter-fold"]
+	"plugins": [
+		"chapter-fold"
+	],
 
-"pluginsConfig": {
-        "chapter-fold":{}
+	"pluginsConfig": {
+		"chapter-fold":{}
     }
 }
